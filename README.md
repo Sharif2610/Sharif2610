@@ -1,6 +1,11 @@
 
-# 💫 About Me:
-🔭 I’m currently a final year student from computer Applications. <br> And Building Full-stack projects using Python, Django, React, and MySQL — including an Employee Management System and a Student Management System.<br>🤝 I’m looking to collaborate on<br>Beginner-friendly open-source projects and real-world web applications related to Python, Django, or React.<br>🆘 I’m looking for help with<br>Improving system design, writing clean scalable code, and preparing for backend developer interviews.<br>🌱 I’m currently learning<br>Advanced Django, REST APIs, React hooks, and deployment using GitHub and cloud platforms.<br>💬 Ask me about<br>Python, Django, MySQL, REST APIs, React, and full-stack project development.<br>⚡ Fun fact<br>I enjoy turning ideas into working web apps and debugging gives me more satisfaction than solving puzzles 😄
+ 💫 About Me:
+🔭 I’m a Web Solutions Architect with a Bachelor’s degree in Computer Applications.  
+💻 I build scalable and efficient web applications using Python, Django, React, and MySQL — including projects like Employee Management System and Student Management System.  
+🤝 I collaborate on real-world web applications and beginner-friendly open-source projects related to Python, Django, and React.  
+🌱 I’m currently learning advanced Django, REST APIs, React hooks, and deployment using cloud platforms.  
+💬 Ask me about Python, Django, MySQL, REST APIs, React, and full-stack project development.  
+⚡ Fun fact: I enjoy turning ideas into working web apps, and debugging gives me more satisfaction than solving puzzles 😄
 
 
 ## 🌐 Socials:
